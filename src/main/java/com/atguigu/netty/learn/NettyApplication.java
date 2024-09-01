@@ -1,4 +1,4 @@
-package com.atguigu.netty;
+package com.atguigu.netty.learn;
 
 
 import org.springframework.boot.SpringApplication;
